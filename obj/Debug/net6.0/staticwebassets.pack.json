@@ -1,0 +1,821 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LibraryManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibraryManagement.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\portfolio\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\portfolio\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\Content\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\typed.js\\typed.cjs",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\typed.js\\typed.cjs"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\typed.js\\typed.cjs.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\typed.js\\typed.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\typed.js\\typed.module.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\typed.js\\typed.module.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\typed.js\\typed.module.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\typed.js\\typed.module.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\typed.js\\typed.umd.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\typed.js\\typed.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\typed.js\\typed.umd.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\typed.js\\typed.umd.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\Content\\forms\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Content\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\Content\\forms\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Cupid\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Cupid\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\css\\templatemo-topic-listing.css",
+      "PackagePath": "staticwebassets\\Cupid\\css\\templatemo-topic-listing.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Cupid\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Cupid\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\businesswoman-using-tablet-analysis.jpg",
+      "PackagePath": "staticwebassets\\Cupid\\images\\businesswoman-using-tablet-analysis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\colleagues-working-cozy-office-medium-shot.jpg",
+      "PackagePath": "staticwebassets\\Cupid\\images\\colleagues-working-cozy-office-medium-shot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\faq_graphic.jpg",
+      "PackagePath": "staticwebassets\\Cupid\\images\\faq_graphic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\rear-view-young-college-student.jpg",
+      "PackagePath": "staticwebassets\\Cupid\\images\\rear-view-young-college-student.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\colleagues-working-cozy-office-medium-shot.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\colleagues-working-cozy-office-medium-shot.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Compose_music_re_wpiw.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Compose_music_re_wpiw.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Educator_re_ju47.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Educator_re_ju47.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Finance_re_gnv2.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Finance_re_gnv2.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Graduation_re_gthn.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Graduation_re_gthn.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Group_video_re_btu7.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Group_video_re_btu7.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Podcast_audience_re_4i5q.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Podcast_audience_re_4i5q.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_Remote_design_team_re_urdx.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_Remote_design_team_re_urdx.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_happy_music_g6wc.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_happy_music_g6wc.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_online_ad_re_ol62.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_online_ad_re_ol62.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\images\\topics\\undraw_viral_tweet_gndb.png",
+      "PackagePath": "staticwebassets\\Cupid\\images\\topics\\undraw_viral_tweet_gndb.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Cupid\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\Cupid\\js\\click-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Cupid\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Cupid\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Cupid\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Cupid\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Images\\BOOKFLOW.png",
+      "PackagePath": "staticwebassets\\Images\\BOOKFLOW.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\Images\\library Background.png",
+      "PackagePath": "staticwebassets\\Images\\library Background.png"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oke Monsuru\\Downloads\\Project Help\\LibraryManagemt - Copy\\LIbraryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LibraryManagement.props",
+      "PackagePath": "build\\LibraryManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryManagement.props",
+      "PackagePath": "buildMultiTargeting\\LibraryManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LibraryManagement.props",
+      "PackagePath": "buildTransitive\\LibraryManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

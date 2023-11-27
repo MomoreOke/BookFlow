@@ -1,0 +1,54 @@
+﻿@model IEnumerable<LibraryManagement.Data.LibraryDBContext.Loan>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReturnStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LoanDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReturnDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LoanId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReturnStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoanDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReturnDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoanId)
+            </td>
+            <td>
+                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.LoanId">Edit</a> |
+                <a class="btn btn-warning" asp-action="Details" asp-route-id="@item.LoanId">Details</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.LoanId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

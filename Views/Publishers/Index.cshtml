@@ -1,0 +1,36 @@
+﻿@model IEnumerable<LibraryManagement.Data.LibraryDBContext.Publisher>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>List of publishers</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New publisher</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PublusherName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublusherName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PublisherId" class="btn btn-success">Edit</a> 
+                <a asp-action="Details" asp-route-id="@item.PublisherId" class="btn btn-warning">Details</a> 
+                 <a asp-action="Delete" asp-route-id="@item.PublisherId" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LibraryManagement.Data.LibraryDBContext.OverdueBook>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Overdue Books</h1>
+
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Borrower
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book)
+            </th>
+            <th>
+               Days Overdue
+            </th>
+            <th>
+               Fine Amt.
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BorrowerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book.BookName)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.NumberOfDaysOverdue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FineAmount)
+            </td>
+            <td>
+                    <a class="btn btn-warning" asp-action="Details" asp-route-id="@item.OverdueBookId">Details</a> 
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.OverdueBookId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,110 @@
+﻿@{
+    ViewData["Title"] = "Admin";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>ADMIN DASHBOARD</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="~/Content/assets/img/favicon.png" rel="icon">
+    <link href="~/Content/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="~/Content/assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="~/Content/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/Content/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/Content/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="~/Content/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="~/Content/assets/css/style.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="d-flex flex-column">
+
+            <partial name="_AdminLoginPartial" />
+
+            <nav id="navbar" class="nav-menu navbar">
+                <ul>
+                    <li><a href="#" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Dashboard</span></a></li>
+                    <li><a href="@Url.Action("Index", "Books" )" class="nav-link scrollto"><i class="bi bi-book"></i><span>BOOKS</span></a></li>
+                    <li><a href="@Url.Action("Index","Authors")" class="nav-link scrollto"><i class="bx bx-user"></i> <span>AUTHORS</span></a></li>
+                    <li><a href="@Url.Action("Index","Publishers")" class="nav-link scrollto"><i class="bx bx-user"></i> <span>PUBLISHERS</span></a></li>
+                    <li><a href="@Url.Action("Index","Genres")" class="nav-link scrollto"><i class="bx bx-user"></i> <span>GENRES</span></a></li>
+                    <li><a href="@Url.Action("Index","BookReservations")" class="nav-link scrollto"><i class="bx bx-user"></i> <span>USER RESERVATIONS</span></a></li>
+                    <li><a href="@Url.Action("Index","BorrowedBooks")" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>BORROWED BOOKS</span></a></li>
+                    <li><a href="@Url.Action("Index","OverdueBooks")" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>BOOKS OVERDUE</span></a></li>
+                    <li><a href="@Url.Action("Logout","Account")" class="nav-link scrollto"><i class="bx bx-server"></i> <span>LOG OUT</span></a></li>
+                </ul>
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+
+    <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+        <section class="breadcrumbs">
+            <div class="container">
+
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2>ADMIN DASHBOARD</h2>
+                    <ol>
+                        <li><a href="index.html">Home</a></li>
+                        <li>Inner Page</li>
+                    </ol>
+                </div>
+
+            </div>
+        </section><!-- End Breadcrumbs -->
+        <!-- ======= Portfolio Details Section ======= -->
+        <section id="portfolio-details" class="portfolio-details">
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </section> <!-- End Portfolio Details Section -->
+
+    </main><!-- End #main -->
+    <!-- ======= Footer ======= -->
+  
+
+    <!-- Vendor JS Files -->
+    <script src="~/Content/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="~/Content/ssets/vendor/aos/aos.js"></script>
+    <script src="~/Content/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Content/assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="~/Content/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="~/Content/assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="~/Content/assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="~/Content/assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="~/Content/assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="~/Content/assets/js/main.js"></script>
+
+</body>
+
+</html>

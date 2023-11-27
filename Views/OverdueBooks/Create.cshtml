@@ -1,0 +1,49 @@
+﻿@model LibraryManagement.Data.LibraryDBContext.OverdueBook
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>OverdueBook</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NumberOfDaysOverdue" class="control-label"></label>
+                <input asp-for="NumberOfDaysOverdue" class="form-control" />
+                <span asp-validation-for="NumberOfDaysOverdue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FineAmount" class="control-label"></label>
+                <input asp-for="FineAmount" class="form-control" />
+                <span asp-validation-for="FineAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BorrowerName" class="control-label"></label>
+                <input asp-for="BorrowerName" class="form-control" />
+                <span asp-validation-for="BorrowerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MemberId" class="control-label"></label>
+                <select asp-for="MemberId" class ="form-control" asp-items="ViewBag.MemberId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookId" class="control-label"></label>
+                <select asp-for="BookId" class ="form-control" asp-items="ViewBag.BookId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

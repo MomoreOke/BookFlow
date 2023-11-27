@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using LibraryManagement.Data
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+        <div class="profile">
+            <img src="~/Content/assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="#">@UserManager.GetUserAsync(User).Result.FirstName.ToUpper() @UserManager.GetUserAsync(User).Result.LastName.ToUpper()</a></h1>
+
+        </div>
+}
